@@ -1,0 +1,403 @@
+{
+  "categories": [
+    "Abstract",
+    "City",
+    "Dark",
+    "Minimal",
+    "Nature"
+  ],
+  "wallpapers": [
+    {
+      "id": "abstract-violet-layers",
+      "title": "Violet Layers",
+      "category": "Abstract",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/abstract/abstract-violet-layers.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/abstract/abstract-violet-layers.jpg",
+      "premium": false
+    },
+    {
+      "id": "abstract-earth-layers",
+      "title": "Earth Layers",
+      "category": "Abstract",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/abstract/abstract-earth-layers.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/abstract/abstract-earth-layers.jpg",
+      "premium": false
+    },
+    {
+      "id": "abstract-ocean-layers",
+      "title": "Ocean Layers",
+      "category": "Abstract",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/abstract/abstract-ocean-layers.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/abstract/abstract-ocean-layers.jpg",
+      "premium": false
+    },
+    {
+      "id": "abstract-candy-waves",
+      "title": "Candy Waves",
+      "category": "Abstract",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/abstract/abstract-candy-waves.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/abstract/abstract-candy-waves.jpg",
+      "premium": true
+    },
+    {
+      "id": "abstract-midnight-mesh",
+      "title": "Midnight Mesh",
+      "category": "Abstract",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/abstract/abstract-midnight-mesh.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/abstract/abstract-midnight-mesh.jpg",
+      "premium": false
+    },
+    {
+      "id": "abstract-peach-fuzz",
+      "title": "Peach Fuzz",
+      "category": "Abstract",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/abstract/abstract-peach-fuzz.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/abstract/abstract-peach-fuzz.jpg",
+      "premium": false
+    },
+    {
+      "id": "abstract-aurora-mesh",
+      "title": "Aurora Mesh",
+      "category": "Abstract",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/abstract/abstract-aurora-mesh.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/abstract/abstract-aurora-mesh.jpg",
+      "premium": true
+    },
+    {
+      "id": "abstract-sunset-blend",
+      "title": "Sunset Blend",
+      "category": "Abstract",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/abstract/abstract-sunset-blend.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/abstract/abstract-sunset-blend.jpg",
+      "premium": false
+    },
+    {
+      "id": "abstract-ocean-mesh",
+      "title": "Ocean Mesh",
+      "category": "Abstract",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/abstract/abstract-ocean-mesh.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/abstract/abstract-ocean-mesh.jpg",
+      "premium": false
+    },
+    {
+      "id": "abstract-cotton-candy",
+      "title": "Cotton Candy",
+      "category": "Abstract",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/abstract/abstract-cotton-candy.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/abstract/abstract-cotton-candy.jpg",
+      "premium": true
+    },
+    {
+      "id": "dark-silent-moon",
+      "title": "Silent Moon",
+      "category": "Dark",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/dark/dark-silent-moon.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/dark/dark-silent-moon.jpg",
+      "premium": false
+    },
+    {
+      "id": "dark-solar-ring",
+      "title": "Solar Ring",
+      "category": "Dark",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/dark/dark-solar-ring.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/dark/dark-solar-ring.jpg",
+      "premium": false
+    },
+    {
+      "id": "dark-halo-ring",
+      "title": "Halo Ring",
+      "category": "Dark",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/dark/dark-halo-ring.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/dark/dark-halo-ring.jpg",
+      "premium": true
+    },
+    {
+      "id": "dark-crimson-cosmos",
+      "title": "Crimson Cosmos",
+      "category": "Dark",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/dark/dark-crimson-cosmos.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/dark/dark-crimson-cosmos.jpg",
+      "premium": false
+    },
+    {
+      "id": "dark-deep-space",
+      "title": "Deep Space",
+      "category": "Dark",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/dark/dark-deep-space.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/dark/dark-deep-space.jpg",
+      "premium": false
+    },
+    {
+      "id": "dark-violet-nebula",
+      "title": "Violet Nebula",
+      "category": "Dark",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/dark/dark-violet-nebula.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/dark/dark-violet-nebula.jpg",
+      "premium": true
+    },
+    {
+      "id": "dark-ice-strings",
+      "title": "Ice Strings",
+      "category": "Dark",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/dark/dark-ice-strings.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/dark/dark-ice-strings.jpg",
+      "premium": false
+    },
+    {
+      "id": "dark-fire-threads",
+      "title": "Fire Threads",
+      "category": "Dark",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/dark/dark-fire-threads.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/dark/dark-fire-threads.jpg",
+      "premium": false
+    },
+    {
+      "id": "dark-aurora-lines",
+      "title": "Aurora Lines",
+      "category": "Dark",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/dark/dark-aurora-lines.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/dark/dark-aurora-lines.jpg",
+      "premium": false
+    },
+    {
+      "id": "dark-neon-flow",
+      "title": "Neon Flow",
+      "category": "Dark",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/dark/dark-neon-flow.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/dark/dark-neon-flow.jpg",
+      "premium": true
+    },
+    {
+      "id": "nature-twilight-bay",
+      "title": "Twilight Bay",
+      "category": "Nature",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/nature/nature-twilight-bay.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/nature/nature-twilight-bay.jpg",
+      "premium": false
+    },
+    {
+      "id": "nature-pastel-sea",
+      "title": "Pastel Sea",
+      "category": "Nature",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/nature/nature-pastel-sea.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/nature/nature-pastel-sea.jpg",
+      "premium": false
+    },
+    {
+      "id": "nature-ocean-sunset",
+      "title": "Ocean Sunset",
+      "category": "Nature",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/nature/nature-ocean-sunset.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/nature/nature-ocean-sunset.jpg",
+      "premium": true
+    },
+    {
+      "id": "nature-autumn-woods",
+      "title": "Autumn Woods",
+      "category": "Nature",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/nature/nature-autumn-woods.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/nature/nature-autumn-woods.jpg",
+      "premium": false
+    },
+    {
+      "id": "nature-foggy-forest",
+      "title": "Foggy Forest",
+      "category": "Nature",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/nature/nature-foggy-forest.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/nature/nature-foggy-forest.jpg",
+      "premium": false
+    },
+    {
+      "id": "nature-pine-dusk",
+      "title": "Pine Dusk",
+      "category": "Nature",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/nature/nature-pine-dusk.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/nature/nature-pine-dusk.jpg",
+      "premium": true
+    },
+    {
+      "id": "nature-violet-dusk",
+      "title": "Violet Dusk",
+      "category": "Nature",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/nature/nature-violet-dusk.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/nature/nature-violet-dusk.jpg",
+      "premium": true
+    },
+    {
+      "id": "nature-emerald-valley",
+      "title": "Emerald Valley",
+      "category": "Nature",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/nature/nature-emerald-valley.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/nature/nature-emerald-valley.jpg",
+      "premium": false
+    },
+    {
+      "id": "nature-alpine-dawn",
+      "title": "Alpine Dawn",
+      "category": "Nature",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/nature/nature-alpine-dawn.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/nature/nature-alpine-dawn.jpg",
+      "premium": false
+    },
+    {
+      "id": "nature-misty-blue-ridges",
+      "title": "Misty Blue Ridges",
+      "category": "Nature",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/nature/nature-misty-blue-ridges.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/nature/nature-misty-blue-ridges.jpg",
+      "premium": false
+    },
+    {
+      "id": "nature-sunset-peaks",
+      "title": "Sunset Peaks",
+      "category": "Nature",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/nature/nature-sunset-peaks.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/nature/nature-sunset-peaks.jpg",
+      "premium": true
+    },
+    {
+      "id": "minimal-night-crescent",
+      "title": "Night Crescent",
+      "category": "Minimal",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/minimal/minimal-night-crescent.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/minimal/minimal-night-crescent.jpg",
+      "premium": false
+    },
+    {
+      "id": "minimal-mint-moon",
+      "title": "Mint Moon",
+      "category": "Minimal",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/minimal/minimal-mint-moon.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/minimal/minimal-mint-moon.jpg",
+      "premium": false
+    },
+    {
+      "id": "minimal-pastel-moon",
+      "title": "Pastel Moon",
+      "category": "Minimal",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/minimal/minimal-pastel-moon.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/minimal/minimal-pastel-moon.jpg",
+      "premium": false
+    },
+    {
+      "id": "minimal-ocean-arch",
+      "title": "Ocean Arch",
+      "category": "Minimal",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/minimal/minimal-ocean-arch.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/minimal/minimal-ocean-arch.jpg",
+      "premium": false
+    },
+    {
+      "id": "minimal-terracotta-arch",
+      "title": "Terracotta Arch",
+      "category": "Minimal",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/minimal/minimal-terracotta-arch.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/minimal/minimal-terracotta-arch.jpg",
+      "premium": false
+    },
+    {
+      "id": "minimal-boho-rainbow",
+      "title": "Boho Rainbow",
+      "category": "Minimal",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/minimal/minimal-boho-rainbow.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/minimal/minimal-boho-rainbow.jpg",
+      "premium": true
+    },
+    {
+      "id": "minimal-desert-dunes",
+      "title": "Desert Dunes",
+      "category": "Minimal",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/minimal/minimal-desert-dunes.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/minimal/minimal-desert-dunes.jpg",
+      "premium": false
+    },
+    {
+      "id": "minimal-lavender-calm",
+      "title": "Lavender Calm",
+      "category": "Minimal",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/minimal/minimal-lavender-calm.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/minimal/minimal-lavender-calm.jpg",
+      "premium": false
+    },
+    {
+      "id": "minimal-sage-morning",
+      "title": "Sage Morning",
+      "category": "Minimal",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/minimal/minimal-sage-morning.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/minimal/minimal-sage-morning.jpg",
+      "premium": false
+    },
+    {
+      "id": "minimal-peach-hills",
+      "title": "Peach Hills",
+      "category": "Minimal",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/minimal/minimal-peach-hills.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/minimal/minimal-peach-hills.jpg",
+      "premium": true
+    },
+    {
+      "id": "city-vapor-dream",
+      "title": "Vapor Dream",
+      "category": "City",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/city/city-vapor-dream.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/city/city-vapor-dream.jpg",
+      "premium": false
+    },
+    {
+      "id": "city-cyber-horizon",
+      "title": "Cyber Horizon",
+      "category": "City",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/city/city-cyber-horizon.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/city/city-cyber-horizon.jpg",
+      "premium": false
+    },
+    {
+      "id": "city-retro-sunset",
+      "title": "Retro Sunset",
+      "category": "City",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/city/city-retro-sunset.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/city/city-retro-sunset.jpg",
+      "premium": true
+    },
+    {
+      "id": "city-blue-hour",
+      "title": "Blue Hour",
+      "category": "City",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/city/city-blue-hour.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/city/city-blue-hour.jpg",
+      "premium": false
+    },
+    {
+      "id": "city-dusk-downtown",
+      "title": "Dusk Downtown",
+      "category": "City",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/city/city-dusk-downtown.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/city/city-dusk-downtown.jpg",
+      "premium": false
+    },
+    {
+      "id": "city-teal-night",
+      "title": "Teal Night",
+      "category": "City",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/city/city-teal-night.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/city/city-teal-night.jpg",
+      "premium": false
+    },
+    {
+      "id": "city-purple-metro",
+      "title": "Purple Metro",
+      "category": "City",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/city/city-purple-metro.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/city/city-purple-metro.jpg",
+      "premium": false
+    },
+    {
+      "id": "city-midnight-skyline",
+      "title": "Midnight Skyline",
+      "category": "City",
+      "thumb": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/thumbs/city/city-midnight-skyline.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/ananthsj/wallnest-data@main/images/city/city-midnight-skyline.jpg",
+      "premium": true
+    }
+  ]
+}
